@@ -1,0 +1,12 @@
+# ---- Core ----
+aiokafka>=0.10.0,<1.0
+asyncpg>=0.29.0,<1.0
+orjson>=3.9,<4.0
+pydantic>=2.6,<3.0
+pydantic-settings>=2.2,<3.0
+
+# ---- Logging ----
+structlog>=24.1,<25.0
+
+# ---- Utilities ----
+python-dotenv>=1.0,<2.0
